@@ -2,15 +2,12 @@
 
 # dependencies
 /node_modules
-/desktop/wpc/node_modules
-/mobile/wpc/node_modules
-/desktop/wpc/build
-/mobile/wpc/build
 
 # testing
 /coverage
 
 # production
+/build
 
 # misc
 .DS_Store
